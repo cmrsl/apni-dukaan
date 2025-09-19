@@ -1,0 +1,28 @@
+{
+  "name": "apni-dukaan-backend",
+  "version": "1.0.0",
+  "description": "Apni-Dukaan Backend – scalable APIs for products, orders, payments & delivery.",
+  "keywords": [
+    "apni-dukaan",
+    "store-backend",
+    "ecommerce",
+    "shopping-app",
+    "retail",
+    "orders",
+    "products",
+    "payments",
+    "delivery"
+  ],
+  "license": "ISC",
+  "author": "Vijay Kumar Kushwaha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": " "
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
